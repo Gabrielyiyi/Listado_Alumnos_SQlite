@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Listado_alumnos" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Color palette -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/on_primary_container</item>
+        <item name="android:colorBackground">@color/background_light</item>
+        <item name="colorSurface">@color/surface_card</item>
+    </style>
+
+    <style name="Theme.Listado_alumnos" parent="Base.Theme.Listado_alumnos" />
+
+    <!-- Shape Styles for Modern Rounded Images -->
+    <style name="CircleImageView">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="RoundedSquareImageView">
+        <item name="cornerSize">16dp</item>
+    </style>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Listado de Alumnos</string>
+    <string name="title_listado">Alumnos Registrados</string>
+    <string name="subtitle_alumnos_count">%1$d alumnos en la base de datos</string>
+    <string name="no_alumnos_title">Sin Alumnos Registrados</string>
+    <string name="no_alumnos">Aún no has registrado ningún alumno.\n¡Toca el botón + para comenzar!</string>
+    <string name="agregar_alumno">Nuevo Alumno</string>
+    <string name="editar_alumno">Editar Alumno</string>
+    <string name="eliminar_alumno">Eliminar Alumno</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="cuenta">Número de cuenta</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="url_imagen">URL de la foto de perfil</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="confirmar_eliminar">¿Estás seguro de que deseas eliminar a %1$s de la base de datos?</string>
+    <string name="cuenta_format">Cuenta: %1$s</string>
+    <string name="correo_format">%1$s</string>
+    <string name="desc_editar">Editar alumno</string>
+    <string name="desc_eliminar">Eliminar alumno</string>
+    <string name="desc_agregar">Agregar alumno</string>
+</resources>
